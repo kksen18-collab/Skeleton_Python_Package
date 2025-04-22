@@ -69,5 +69,10 @@ Edit `config.json` to update the input data.
 9.  pycache,pytestcache and egg-info
 ![image](https://github.com/user-attachments/assets/b18fc0ac-d0a0-4c63-8ec3-998b0cac4d7c)
 
+When you run python -m build or pip install -e ., setuptools generates an .egg-info directory.
+
+![image](https://github.com/user-attachments/assets/34857e87-c5e7-4c75-9278-45aec2ef759c)
+
+
 
  
