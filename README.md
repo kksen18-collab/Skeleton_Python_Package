@@ -73,6 +73,9 @@ When you run python -m build or pip install -e ., setuptools generates an .egg-i
 
 ![image](https://github.com/user-attachments/assets/34857e87-c5e7-4c75-9278-45aec2ef759c)
 
+10. The pyproject.toml file is super important in modern Python packaging — it's like the heart of your project’s build system.
+
+![image](https://github.com/user-attachments/assets/e899d97f-bf2a-4dce-86e4-0cef0e71281c)
 
 
  
