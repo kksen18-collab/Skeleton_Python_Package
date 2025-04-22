@@ -5,22 +5,7 @@ A beginner-friendly Python package that includes simple tools to:
 
 Project Structure:
 
-Skeleton_Package_Project/
-├── src/
-│   └── datacraft/
-│       ├── __init__.py
-│       ├── cleaner.py
-│       ├── analyzer.py
-│       ├── visualizer.py
-│       └── config_loader.py
-├── config.json
-├── main.py
-├── tests/
-│   └── test_cleaner.py
-├── pyproject.toml
-├── requirements.txt
-├── .gitignore
-└── README.md
+![image](https://github.com/user-attachments/assets/c6777c53-92b7-454f-a522-9060c280092b)
 
 ## How to Use
 
