@@ -51,7 +51,7 @@ Edit `config.json` to update the input data.
     "d": null,
     "e": 3
   }
-}
+}```
 
 ## Definitions and Concepts
 
